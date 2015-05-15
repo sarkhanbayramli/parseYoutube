@@ -1,0 +1,21 @@
+{
+	"name": "parseYoutube",
+	"version": "1.0.0",
+	"description": "Crawls the given domain to look for pages with YouTube videos.",
+	"author": "Sarkhan Bayramli <serxanbayramli@gmail.com>",
+	"main": "parseYoutube.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sarkhanbayramli/parseYoutube"
+	},
+	"keywords": [
+		"parse",
+		"YouTube"
+	],
+	"dependencies": {
+		"crawler": "0.4.3",
+		"fs": "latest",
+		"fast-csv": "0.6.0"
+	},
+	"private": true
+}
